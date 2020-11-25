@@ -1,0 +1,19 @@
+sample-projects-character {
+  position: absolute;
+}
+
+sample-projects-character:nth-child(1) {
+  left: 0;
+}
+
+sample-projects-character:nth-child(2) {
+  left: 350px;
+}
+
+sample-projects-character:nth-child(3) {
+  left: 800px;
+}
+
+sample-projects-character:nth-child(4) {
+  left: 1150px;
+}
